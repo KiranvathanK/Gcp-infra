@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"vm","Source":"../modules/services/virtual_machine","Dir":"../modules/services/virtual_machine"},{"Key":"vpc","Source":"../modules/services/vpc","Dir":"../modules/services/vpc"}]}
